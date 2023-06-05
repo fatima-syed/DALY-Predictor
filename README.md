@@ -7,6 +7,9 @@ The dataset contains information on 6,840 studies from 228 countries from 1990 t
 ### Model
 Random Forest Regressor model has been used in this project which combines multiple decision trees to make predictions. Each decision tree is trained on a random subset of the data and features, and the final prediction is obtained by averaging the predictions of individual trees.
 
+### To Get Started
+Create a folder named "model" and add the .pkl file in it which is located at: https://drive.google.com/file/d/1uBSrM_88QiJDM4ffPkCDH11MQv2SyAhO/view?usp=sharing
+
 ### Group Members
 ■ Syeda Fatima Shahid (337346) <br>
 ■ Hafsa Malik (341303) <br>
